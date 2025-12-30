@@ -1,4 +1,4 @@
-# fraud_detection
+# Fraud Detection
 # Problem Statement:
 
 The objective of this project is to build a machine learning model that can proactively detect fraudulent financial transactions. 
